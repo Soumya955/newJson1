@@ -1,22 +1,14 @@
 {
     "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ],"data": []
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": false,
+  }
+],"data": []
 }
